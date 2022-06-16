@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D489EB12285AB69500E92477 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D489EB11285AB69500E92477 /* SearchViewController.swift */; };
 		D489EB14285ABA3200E92477 /* FavouriteListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D489EB13285ABA3200E92477 /* FavouriteListViewController.swift */; };
+		D489EB16285AE05F00E92477 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D489EB15285AE05F00E92477 /* GFButton.swift */; };
 		D497A86A284DB87A00C6736F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D497A869284DB87A00C6736F /* AppDelegate.swift */; };
 		D497A86C284DB87A00C6736F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D497A86B284DB87A00C6736F /* SceneDelegate.swift */; };
 		D497A873284DB87F00C6736F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D497A872284DB87F00C6736F /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		D489EB11285AB69500E92477 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D489EB13285ABA3200E92477 /* FavouriteListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteListViewController.swift; sourceTree = "<group>"; };
+		D489EB15285AE05F00E92477 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		D497A866284DB87A00C6736F /* GHFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D497A869284DB87A00C6736F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D497A86B284DB87A00C6736F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				D497A877284DB87F00C6736F /* Info.plist */,
 				D489EB11285AB69500E92477 /* SearchViewController.swift */,
 				D489EB13285ABA3200E92477 /* FavouriteListViewController.swift */,
+				D489EB15285AE05F00E92477 /* GFButton.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D489EB14285ABA3200E92477 /* FavouriteListViewController.swift in Sources */,
+				D489EB16285AE05F00E92477 /* GFButton.swift in Sources */,
 				D489EB12285AB69500E92477 /* SearchViewController.swift in Sources */,
 				D497A86A284DB87A00C6736F /* AppDelegate.swift in Sources */,
 				D497A86C284DB87A00C6736F /* SceneDelegate.swift in Sources */,
